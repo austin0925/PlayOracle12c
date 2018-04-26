@@ -5,3 +5,8 @@ build
 ## gradle
 .gradle
 gradle
+/bin/
+
+## eclipse
+.classpath
+.project
