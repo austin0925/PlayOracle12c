@@ -10,3 +10,4 @@ gradle
 ## eclipse
 .classpath
 .project
+.settings/
